@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joao-gusantos
 - 👀 I’m interested in sharing my projects in automation of network
-- 🌱 I’m currently learning Python, Shell Script and Ansible
+- 🌱 I’m currently working and learning Python, Shell Script and Ansible
 - 💞️ I’m looking forward to collaborating on DevOps
 
 ### Connect with me:
