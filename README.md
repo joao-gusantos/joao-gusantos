@@ -23,7 +23,7 @@
 
 [linkedin]: https://linkedin.com/in/joaogusantos
 
-![Snake animation](https://github.com/rafaballerini/joao-gusantos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/joao-gusantos/joao-gusantos/blob/output/github-contribution-grid-snake.svg)
 <!---
 joao-gusantos/joao-gusantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
