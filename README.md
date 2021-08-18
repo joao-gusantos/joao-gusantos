@@ -1,7 +1,7 @@
 - 👋 Hi, I’m João Gustavo
 - 👀 I’m interested in sharing my projects in automation of network
 - 🌱 I’m currently working and learning Python, Shell Script and Ansible
-- 💞️ I’m looking forward to collaborating on DevOps
+- 🤝 I’m looking forward to collaborating on DevOps
 
 <div>
   <a href="https://github.com/joao-gusantos">
